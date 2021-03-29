@@ -1,0 +1,8 @@
+title: Command Menu
+originalAuthor: Me
+description: Stuff
+assets:
+  - name: field2d/jp/zz0command.2dd
+    method: copy
+    source:
+    - name: CommandMenu/tt4command.2dd
